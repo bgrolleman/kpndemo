@@ -14,6 +14,10 @@ Jethro was here and created a new file!
 * [Ronald](ronald.md)
 * [Nick](Nick.md)
 <<<<<<< HEAD
+* [Duncan](Duncan.md)
+* [duncan2](duncan2.md)
+=======
+<<<<<<< HEAD
 =======
 * [Nick](Nick.md)
 * [Duncan.md](Duncan.md)
