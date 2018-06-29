@@ -12,5 +12,6 @@ Jethro was here and created a new file!
 * [Ronald](ronald.md)
 * [Nick](Nick.md)
 * [Duncan](Duncan.md)
+* [duncan2](duncan2.md)
 * [Stephan](Stephan.md)
 * [Dolf](dolf.md)
