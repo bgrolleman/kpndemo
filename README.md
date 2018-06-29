@@ -7,4 +7,9 @@ Jethro was here and created a new file!
 # Deelnemers
 
 * [Bas](Bas.md)
+* [Nick](Nick.md)
+
+
+
+
 * [Arno](Arno.md)
