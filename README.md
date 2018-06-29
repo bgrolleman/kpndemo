@@ -8,4 +8,4 @@ Jethro was here and created a new file!
 
 * [Bas](Bas.md)
 * [Nick](Nick.md)
-* [Duncan.md](Duncan.md)
+* [Duncan](Duncan.md)
