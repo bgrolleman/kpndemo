@@ -7,9 +7,9 @@ Jethro was here and created a new file!
 # Deelnemers
 
 * [Bas](Bas.md)
-<<<<<<< HEAD
-* [Ronald](ronald.md)
+* [Wessel](wessel.md)
 * [Nick](Nick.md)
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 * [Duncan.md](Duncan.md)
@@ -24,5 +24,12 @@ Jethro was here and created a new file!
 >>>>>>> 8c0d204f0725dbc849a41d4ffec03579a60c4509
 >>>>>>> 9cde66a2caff09b488bf969af574503ab3b4a57b
 =======
+=======
+* [Ronald](ronald.md)
+* [Nick](Nick.md)
+>>>>>>> 1c182c3ef159728132d88970fdfeeccabd415b21
 * [Duncan](Duncan.md)
->>>>>>> 7025bc59a80e38f343c870e1c30aa74f11715e42
+* [duncan2](duncan2.md)
+* [Stephan](Stephan.md)
+* [Dolf](dolf.md)
+* [marcel](marcel.md)
